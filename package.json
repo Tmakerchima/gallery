@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatrixAges/picpic.git"
+    "url": "git+https://github.com/Tmakerchima/gallery.git"
   },
-  "author": "matrixage",
+  "author": "Tmakerchima",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MatrixAges/picpic/issues"
+    "url": "https://github.com/Tmakerchima/gallery/issues"
   },
-  "homepage": "https://github.com/MatrixAges/picpic#readme",
+  "homepage": "https://github.com/Tmakerchima/gallery#readme",
   "dependencies": {
     "@matrixage/atom.css": "^2.0.1",
     "@matrixage/picpic": "^1.5.4",
