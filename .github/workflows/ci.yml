@@ -29,7 +29,7 @@ jobs:
                   - name: Deploy
                     uses: peaceiris/actions-gh-pages@v3
                     with:
-                          access_token: ${{ secrets.ACCESS_TOKEN }}
+                          token: ${{ secrets.A_SECRET_TOKEN }}
                           publish_dir: ./dist
                           external_repository: Tmakerchima/gallery
                         
