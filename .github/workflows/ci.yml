@@ -29,8 +29,10 @@ jobs:
                   - name: Deploy
                     uses: peaceiris/actions-gh-pages@v3
                     with:
+                          username: Tmakerchima
+                          password: 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
                           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-                          personal_token: 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
+                          personal_token: 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
                           publish_dir: ./dist
                           external_repository: Tmakerchima/gallery
                         
