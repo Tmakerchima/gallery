@@ -29,7 +29,7 @@ jobs:
                   - name: Deploy
                     uses: peaceiris/actions-gh-pages@v3
                     with:
-                          personal_access_token: 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
+                          token: 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
                           publish_dir: ./dist
                           external_repository: Tmakerchima/gallery
                         
