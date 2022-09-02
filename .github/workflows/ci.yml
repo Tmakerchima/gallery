@@ -29,7 +29,8 @@ jobs:
                   - name: Deploy
                     uses: peaceiris/actions-gh-pages@v3
                     with:
-                          personal_token: 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
+                          username: Tmakerchima
+                          password: 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
                           publish_dir: ./dist
                           external_repository: Tmakerchima/gallery
                         
