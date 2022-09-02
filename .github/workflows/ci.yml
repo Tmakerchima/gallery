@@ -30,7 +30,7 @@ jobs:
                     uses: peaceiris/actions-gh-pages@v3
                     with:
                           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-                          personal_token: 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
+                          personal_token: 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
                           publish_dir: ./dist
                           external_repository: Tmakerchima/gallery
                         
